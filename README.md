@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name: Abigail
 
-3. Enter your favourite animal: gold
+3. Enter your favourite animal: donkey
 
 4. Now click the green 'commit changes' button at the bottom.
 
